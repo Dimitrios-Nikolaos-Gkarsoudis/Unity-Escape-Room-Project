@@ -10,7 +10,6 @@ public class LeverInteraction : MonoBehaviour
 
     private bool leverActivated = false; // Keep track of lever state
 
-    // Update is called once per frame
     void Update()
     {
         // Check if the player is within interaction range and pressing 'E'

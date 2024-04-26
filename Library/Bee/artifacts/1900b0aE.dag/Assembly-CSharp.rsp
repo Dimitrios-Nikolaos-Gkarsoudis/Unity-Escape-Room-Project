@@ -362,6 +362,7 @@
 "Assets/DemoPickUpScripts/PickUpStapler.cs"
 "Assets/DemoPickUpScripts/PlayerPickUpDrop.cs"
 "Assets/GearRotation.cs"
+"Assets/GearTwoPlacement.cs"
 "Assets/LeverInteraction.cs"
 "Assets/Movement and Camera/MoveCamera.cs"
 "Assets/Movement and Camera/PlayerCam.cs"

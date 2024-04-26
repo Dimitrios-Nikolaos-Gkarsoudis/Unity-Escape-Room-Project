@@ -10,6 +10,7 @@ public class GearRotation : MonoBehaviour
     public GameObject GearThree;
     public GameObject GearFour;
     public GameObject GearFive;
+    public GameObject Lever;
 
     private bool rotationStarted = false;
     
@@ -22,6 +23,7 @@ public class GearRotation : MonoBehaviour
             GearThree.transform.Rotate(0, 0, 0.2f);
             GearFour.transform.Rotate(0, 0, -0.2f);
             GearFive.transform.Rotate(0, 0, 0.2f);
+            
         }    
     }
 
